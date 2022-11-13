@@ -1,0 +1,4 @@
+-> Utilizar o comando ->  python3 -m venv .venv
+faz com que a gente isole tudo que for instalado somente para esse diretório e não para os demais
+lugares.
+-> Utilizar o comando source .venv/bin/activate para ativar a vm
